@@ -25,6 +25,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass', '~> 3.3'
+gem 'devise', '~> 4.3'
 #the editor stuff
 gem 'mini_magick', '~> 4.8.0'
 gem 'paperclip', '~> 5.1'
